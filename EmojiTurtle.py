@@ -38,7 +38,7 @@ ray4.left(90)
 ray4.forward(25)
 ray4.right(180)
 ray4.pendown()
-ray4.forward(70)
+ray4.forward(80)
 
 turtle.exitonclick()
 
